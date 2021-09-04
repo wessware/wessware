@@ -44,16 +44,16 @@ Design:
 
 ---
 Publications <br/>
-<a href="https://docs.google.com/document/d/1OYqgqBsTFdXl1JGN1sqDF0qFummyt-go4FyyuF4IyxE/edit?usp=sharing">Impact of Innovation Implementation on Company growth </a> <br/>
-<a href="https://docs.google.com/document/d/1dWqLL2eO3ptYt5SLcna_y7dovCgVY-c-VgUvJSVY5jc/edit?usp=sharing">RK4-SIR modelling for Measles prevalence</a> <br/>
+<a href="https://docs.google.com/document/d/1OYqgqBsTFdXl1JGN1sqDF0qFummyt-go4FyyuF4IyxE/edit?usp=sharing" target='_blank'>Impact of Innovation Implementation on Company growth </a> <br/>
+<a href="https://docs.google.com/document/d/1dWqLL2eO3ptYt5SLcna_y7dovCgVY-c-VgUvJSVY5jc/edit?usp=sharing" target='_blank'>RK4-SIR modelling for Measles prevalence</a> <br/>
 <a href="">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
 
 ---
 Contact
 ---
-<a href='mailto:stevensheasier@gmail.com'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
-<a href='https://www.linkedin.com/in/stephen-shisia-105924450/'><img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin_logo' width='25' height='25'/></a>
-<a href='https://wa.me/79972433'><img src='https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg' alt='vscode_logo' width='25' height='25'/></a>
+<a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
+<a href='https://www.linkedin.com/in/stephen-shisia-105924450/' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin_logo' width='25' height='25'/></a>
+<a href='https://wa.me/79972433' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg' alt='vscode_logo' width='25' height='25'/></a>
 
 
 
