@@ -18,7 +18,7 @@ Toolbox
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='expressjs_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'alt='html_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css3_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
