@@ -14,6 +14,7 @@ Also in the pipeline, is a project on 'Start up Failure & Success'. I have compl
 ---
 Toolbox 
 ----
+<br/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
@@ -27,6 +28,7 @@ Toolbox
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg' alt='photoshop_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg' alt='illustrator_logo' width='50' height='50'/>
+<img src='https://cdn.worldvectorlogo.com/logos/indesign-cc.svg' alt='indesign_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
 
 
