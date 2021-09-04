@@ -13,12 +13,16 @@ Also in the pipeline, is a project on 'Start up Failure & Success'. I have compl
 
 ----
 ToolBox
+
 ---
 ML & Data
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 ---
 Web
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
