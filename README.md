@@ -16,7 +16,6 @@ Toolbox
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
-<img src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg' alt='node_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='expressjs_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'alt='html_logo' width='50' height='50'/>
