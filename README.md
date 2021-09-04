@@ -12,8 +12,13 @@ I am working on a research project on the subject; Data Loss & Missing Marks in 
 Also in the pipeline, is a project on 'Start up Failure & Success'. I have completed several other industry-oriented projects using an array of Machine Learning tools as highlighted. I am open to collaboration and currently I am learning Natural Language Processing to expand my Knowledge base in Artificial Intelligence and Data Science. 
 
 ---
-Toolbox
+ML & Data
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
+---
+Web
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux_logo' width='50' height='50'/>
@@ -21,13 +26,15 @@ Toolbox
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css3_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
+
+---
+Design
 <img src='https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg' alt='photoshop_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg' alt='illustrator_logo' width='50' height='50'/>
 <img src='https://cdn.worldvectorlogo.com/logos/indesign-cc.svg' alt='indesign_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
+<img src='https://cdn.worldvectorlogo.com/logos/premiere-cc.svg' alt='premierpro_logo' width='50' height='50'/>
+<img src='https://cdn.worldvectorlogo.com/logos/adobe-xd.svg' alt='xd_logo' width='50' height='50'/>
 
 ---
 Contact
