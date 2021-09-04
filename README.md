@@ -13,7 +13,7 @@ Also in the pipeline, is a project on 'Start up Failure & Success'. I have compl
 
 ---
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='vscode_logo' width='50' height='50'/>
