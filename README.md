@@ -15,7 +15,7 @@ Also in the pipeline, is a project on 'Start up Failure & Success'. I have compl
 ToolBox
 
 ---
-#### ML & Data:
+ML & Data:
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
