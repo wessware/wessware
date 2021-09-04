@@ -45,7 +45,7 @@ Design:
 ---
 Publications <br/>
 <a href="https://docs.google.com/document/d/1OYqgqBsTFdXl1JGN1sqDF0qFummyt-go4FyyuF4IyxE/edit?usp=sharing">Impact of Innovation Implementation on Company growth </a> <br/>
-<a href="">SIR modelling for Measles prevalence in the 20th Century</a> <br/>
+<a href="https://docs.google.com/document/d/1dWqLL2eO3ptYt5SLcna_y7dovCgVY-c-VgUvJSVY5jc/edit?usp=sharing">RK4-SIR modelling for Measles prevalence in the 20th Century</a> <br/>
 <a href="">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
 
 ---
