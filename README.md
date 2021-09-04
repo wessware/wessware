@@ -24,7 +24,7 @@ ML & Data:
 <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 ---
-#Web:
+# Web:
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
@@ -36,7 +36,7 @@ ML & Data:
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
 
 ---
-#Design:
+# Design:
 <img src='https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg' alt='photoshop_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg' alt='illustrator_logo' width='50' height='50'/>
 <img src='https://cdn.worldvectorlogo.com/logos/indesign-cc.svg' alt='indesign_logo' width='50' height='50'/>
