@@ -43,9 +43,9 @@ Design:
 <img src='https://cdn.worldvectorlogo.com/logos/adobe-xd.svg' alt='xd_logo' width='50' height='50'/>
 
 ---
-Publications
-<a href="">Impact of Innovation Implementation on Company growth </a>
-<a href="">SIR modelling for Measles prevalence in the 20th Century</a>
+Publications <br/>
+<a href="">Impact of Innovation Implementation on Company growth </a> <br/>
+<a href="">SIR modelling for Measles prevalence in the 20th Century</a> <br/>
 <a href="">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
 
 ---
