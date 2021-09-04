@@ -43,6 +43,12 @@ Design:
 <img src='https://cdn.worldvectorlogo.com/logos/adobe-xd.svg' alt='xd_logo' width='50' height='50'/>
 
 ---
+Publications
+<a href="">Impact of Innovation Implementation on Company growth </a>
+<a href="">SIR modelling for Measles prevalence in the 20th Century</a>
+<a href="">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
+
+---
 Contact
 ---
 <a href='mailto:stevensheasier@gmail.com'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
