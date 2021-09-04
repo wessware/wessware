@@ -5,7 +5,7 @@
 ![Twitter Following](https://img.shields.io/twitter/follow/wessware?label=Twitter%20Activity&style=social)
 ![GitHub Following](https://img.shields.io/github/stars/wessware/missing_marks_prediction_analysis?label=Starred&style=social)
 ---
-I am an all-round engineer & scientist with a specialty in Data Science and Machine Learning. I also have satiable skills in front-end web development, Graphic design and UI/UX design. I as well take a keen interest in Research & Development.
+I am an objective & adaptive engineer & scientist with a specialty in Data Science and Machine Learning. I also have satiable skills in front-end web development, Graphic design and UI/UX design. I as well take a keen interest in Research & Development.
 
 I am working on a research project on the subject; Data Loss & Missing Marks in Kenyan Institutions of higher Learning. This <a href='https://github.com/users/wessware/projects/1'> project </a> uses Machine Learning models to predict likelihood & determine causes w.r.t the study subject. 
 
