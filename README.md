@@ -46,7 +46,7 @@ Design:
 Publications <br/>
 <a href="https://docs.google.com/document/d/1OYqgqBsTFdXl1JGN1sqDF0qFummyt-go4FyyuF4IyxE/edit?usp=sharing" target='_blank'>Impact of Innovation Implementation on Company growth </a> <br/>
 <a href="https://docs.google.com/document/d/1dWqLL2eO3ptYt5SLcna_y7dovCgVY-c-VgUvJSVY5jc/edit?usp=sharing" target='_blank'>RK4-SIR modelling for Measles prevalence</a> <br/>
-<a href="">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
+<a href="https://docs.google.com/document/d/1EQvLo1QQdPTNBH9Y4k_KvlEV2ynP73GT5dSh6uLZG_U/edit?usp=sharing">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
 
 ---
 Contact
