@@ -53,7 +53,7 @@ Contact
 ---
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
 <a href='https://www.linkedin.com/in/stephen-shisia-105924450/' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin_logo' width='25' height='25'/></a>
-<a href='https://wa.me/79972433' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg' alt='vscode_logo' width='25' height='25'/></a>
+<a href='https://wa.me/+25479972433' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg' alt='vscode_logo' width='25' height='25'/></a>
 
 
 
