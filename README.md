@@ -7,9 +7,6 @@
 ---
 I am an objective & adaptive engineer & scientist with a specialty in Data Science and Machine Learning. I also have satiable skills in front-end web development, Graphic design and UI/UX design. I as well take a keen interest in Research & Development.
 
-I am working on a research project on the subject; Data Loss & Missing Marks in Kenyan Institutions of higher Learning. This <a href='https://github.com/users/wessware/projects/1'> project </a> uses Machine Learning models to predict likelihood & determine causes w.r.t the study subject. 
-
-Also in the pipeline, is a project on 'Start up Failure & Success'. I have completed several other industry-oriented projects using an array of Machine Learning tools as highlighted. I am open to collaboration and currently I am learning Natural Language Processing to expand my Knowledge base in Artificial Intelligence and Data Science. 
 
 ----
 ToolBox
@@ -42,13 +39,7 @@ Design:
 <img src='https://cdn.worldvectorlogo.com/logos/premiere-cc.svg' alt='premierpro_logo' width='50' height='50'/>
 <img src='https://cdn.worldvectorlogo.com/logos/adobe-xd.svg' alt='xd_logo' width='50' height='50'/>
 
----
-Publications <br/>
-<a href="https://docs.google.com/document/d/1OYqgqBsTFdXl1JGN1sqDF0qFummyt-go4FyyuF4IyxE/edit?usp=sharing" target='_blank'>Impact of Innovation Implementation on Company growth </a> <br/>
-<a href="https://docs.google.com/document/d/1dWqLL2eO3ptYt5SLcna_y7dovCgVY-c-VgUvJSVY5jc/edit?usp=sharing" target='_blank'>RK4-SIR modelling for Measles prevalence</a> <br/>
-<a href="https://docs.google.com/document/d/1EQvLo1QQdPTNBH9Y4k_KvlEV2ynP73GT5dSh6uLZG_U/edit?usp=sharing">Missing marks & Data loss in Kenyan Institutions of Higher Learning</a>
-
----
+------
 Contact
 ---
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
