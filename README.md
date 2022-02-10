@@ -1,7 +1,9 @@
 ### Wechale Shisia Stephen 👋
 
 ---
-Shisia is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Developer. He also is a Python & Javascript developer. In addition, he has built an impressive portfolio in UI/UX design, UX research and Graphic Design.
+Shisia is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Engineer. 
+He is a Python & Javascript developer. 
+He as well, has built an impressive portfolio in UI/UX design, UX research and Graphic Design.
 He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker and a wonderful tutor. 
 
 
