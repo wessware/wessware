@@ -1,7 +1,7 @@
 ### Wechale Shisia Stephen 👋
 
 ---
-Shisia is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Engineer. 
+Wechale is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Engineer. 
 He is a Python & Javascript developer. 
 He as well, has built an impressive portfolio in UI/UX design, UX research and Graphic Design.
 He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker and a wonderful tutor. 
@@ -11,7 +11,7 @@ He relishes working on design & innovation projects. He is a team-player, great 
 ToolBox
 
 ---
-ML & Data:
+Data Science:
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
@@ -21,7 +21,7 @@ ML & Data:
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png' alt='sklearn_logo' width='50' height='50'/>
 ---
-Web:
+Development:
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
