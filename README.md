@@ -1,11 +1,8 @@
 ### Wechale Shisia Stephen 👋
 
-
-
-![Twitter Following](https://img.shields.io/twitter/follow/wessware?label=Twitter%20Activity&style=social)
-![GitHub Following](https://img.shields.io/github/stars/wessware/missing_marks_prediction_analysis?label=Starred&style=social)
 ---
-I am an objective & adaptive engineer & scientist with a specialty in Data Science and Machine Learning. I also have satiable skills in front-end web development, Graphic design and UI/UX design. I as well take a keen interest in Research & Development.
+Shisia is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Developer. He also is a Python & Javascript developer. In addition, he has built an impressive portfolio in UI/UX design, UX research and Graphic Design.
+He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker and a wonderful tutor. 
 
 
 ----
