@@ -3,7 +3,6 @@
 ---
 Wechale is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Engineer. 
 He is a Python & Javascript developer. 
-He as well, has built an impressive portfolio in UI/UX design, UX research and Graphic Design.
 He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker and a wonderful tutor. 
 
 
@@ -20,24 +19,10 @@ Data Science:
 <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png' alt='sklearn_logo' width='50' height='50'/>
----
-Development:
+
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' alt='css3_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind_logo' width='50' height='50'/>
-
----
-Design:
-<img src='https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg' alt='photoshop_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg' alt='illustrator_logo' width='50' height='50'/>
-<img src='https://cdn.worldvectorlogo.com/logos/indesign-cc.svg' alt='indesign_logo' width='50' height='50'/>
-<img src='https://cdn.worldvectorlogo.com/logos/premiere-cc.svg' alt='premierpro_logo' width='50' height='50'/>
-<img src='https://cdn.worldvectorlogo.com/logos/adobe-xd.svg' alt='xd_logo' width='50' height='50'/>
-
 ------
 Contact
 ---
