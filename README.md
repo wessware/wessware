@@ -3,7 +3,7 @@
 ---
 Wechale is an adaptive engineer & scientist; Data Sciencist, Machine Learning engineer, Software Engineer. 
 He is a Python & Javascript developer. 
-He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker and a wonderful tutor. 
+He relishes working on design & innovation projects. He is a team-player, great collaborator, a critical & analytical thinker. 
 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
