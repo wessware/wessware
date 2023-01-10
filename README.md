@@ -48,4 +48,4 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 #### Contact
 ---
 <br/>
-<a href='mailto:stevensheasier@gmail.com' target='_blank'> <img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/> <a href'https://wa.me/254799762433'target='_blank'> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='kaggle_logo' width='25' height='25'/>
+<a href='mailto:stevensheasier@gmail.com' target='_blank'> <img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/> <a href'https://wa.me/254799762433'target='_blank'> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='kaggle_logo' width='25' height='25'/></a>
