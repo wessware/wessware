@@ -8,22 +8,22 @@ I am enthusiastic and keen on mastering emerging technologies and their integrat
 I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
-## Toolbox
+## Toolbox 
 
 ### Data Analytics 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/373589/excel.svg' alt='python_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='python_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='power_bi_logo' width='50' height='50'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vivo_Logo.svg/800px-Vivo_Logo.svg.png?20180410034342' alt='en_vivo_logo' width='50' height='50'/>
 
 ### Data Science 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg' alt='stats_logo' width='50' height='50'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png' alt='pandas_logo' width='50' height='50'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915' alt='matplot_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/353925/javascript.svg' alt='rstudio_logo' width='50' height='50'/>
@@ -34,11 +34,11 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/452091/python.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/305697/anaconda.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/473683/kaggle.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png' alt='keras_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/452091/python.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg' alt='colab_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/305697/anaconda.svg' alt='anaconda_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/473683/kaggle.svg' alt='kaggle_logo' width='50' height='50'/>
 
 #### Publications
 ---
