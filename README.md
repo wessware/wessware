@@ -1,6 +1,5 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-https://img.shields.io/twitter/follow/wss_easier?style=social
 
 I have a Bachelors degree in Applied Mathematics & Computer science, with a soft spot for Data & Analytics. I have more than 3 years of industry experience in Data Analysis, Data Science & Machine Learning engineering. I am also involved in scientific research & development; in this respect, I have experience with data collection using different tools, data preprocessing & data warehousing, project design, and Monitoring & Evaluation. 
 
@@ -13,11 +12,12 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 
 ### Data Analytics 
 ---
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
-https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg
-https://www.svgrepo.com/show/354428/tableau-icon.svg
-https://www.svgrepo.com/show/473761/powerbi.svg
-https://commons.wikimedia.org/wiki/File:Envivio_logo.jpg
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg' alt='python_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='python_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Envivio_logo.jpg' alt='python_logo' width='50' height='50'/>
 
 ### Data Science 
 ---
