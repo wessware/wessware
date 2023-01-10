@@ -9,7 +9,6 @@ I am an integral & charismatic team player: I can work collaboratively for the a
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
 ## Toolbox
-
 ---
 
 ### Data Analytics 
@@ -44,20 +43,3 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <br/>
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
