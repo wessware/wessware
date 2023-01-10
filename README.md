@@ -1,6 +1,6 @@
 ### Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq">
+<iframe src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq">via GIPHY</a></p>
 ---
 I am an enthusiastic and objective analyst 
 
