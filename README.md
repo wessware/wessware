@@ -8,7 +8,7 @@ I am enthusiastic and keen on learning about emerging technologies and their int
 I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
-_------
+---
 Toolbox
 
 
@@ -20,9 +20,9 @@ Toolbox
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 
-------
+---
 Contact
-------
+---
 <br/>
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
 <a href='https://wa.me/25479972433' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg' alt='whatsapp' width='25' height='25'/></a>
