@@ -34,7 +34,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Keras_logo.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/452091/python.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/305697/anaconda.svg' alt='rstudio_logo' width='50' height='50'/>
@@ -48,5 +48,5 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <br/>
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/> </a> 
-<a href='https://wa.me/254799762433' target='_blank'><img src'https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
+<a href='https://wa.me/254799762433' target='_blank'><img src'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png?20220228223904' alt='whatsapp_lg' width='25' heigh='25'/></a>
 
