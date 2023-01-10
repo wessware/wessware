@@ -17,7 +17,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='python_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Envivio_logo.jpg' alt='python_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vivo_Logo.svg/800px-Vivo_Logo.svg.png?20180410034342' alt='en_vivo_logo' width='50' height='50'/>
 
 ### Data Science 
 ---
@@ -48,5 +48,5 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <br/>
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/> </a> 
-<a href='https://wa.me/254700762433' target='_blank'><img src'https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
+<a href='https://wa.me/254799762433' target='_blank'><img src'https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
 
