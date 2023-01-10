@@ -12,12 +12,9 @@ He relishes working on design & innovation projects. He is a team-player, great 
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' alt='mysql_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png' alt='sklearn_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' alt='vscode_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript_logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react_logo' width='50' height='50'/>
 ------
 Contact
 ---
