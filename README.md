@@ -1,9 +1,9 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I have a Bachelors degree in Applied Mathematics & Computer science, with a soft spot for Data & Analytics. I have more than 3 years of industry experience in Data Analysis, Data Science & Machine Learning engineering. I am also involved in scientific research & development; in this respect, I have experience with data collection using different tools, data preprocessing & data warehousing, project design, and Monitoring & Evaluation. 
+I have a Bachelors degree in Applied Mathematics & Computer science, with a soft spot for Data & Analytics. I have more than 3 years of industry experience in Data Analysis, Data Science & Machine Learning engineering. I also relish scientific research & development; in this respect, I have experience with data collection using different tools, data preprocessing & data warehousing, project design, and Monitoring & Evaluation. 
 
-I am enthusiastic and keen on mastering emerging technologies and their integration in applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
+I am enthusiastic and keen on mastering emerging technologies and their respective integration in Applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
 I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
