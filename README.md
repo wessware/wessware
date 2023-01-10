@@ -1,6 +1,8 @@
 ### Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<iframe src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq.gif">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<img src="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq.gif">
 ---
 I am an enthusiastic and objective analyst 
 
