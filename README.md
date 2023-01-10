@@ -1,4 +1,4 @@
-### Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 I have a Bachelors degree in Applied Mathematics & Computer science, with a soft spot for Data & Analytics. I have more than 3 years of industry experience in Data Analysis, Data Science & Machine Learning engineering. I am also involved in scientific research & development; in this respect, I have experience with data collection using different tools, data preprocessing & data warehousing, project design, and Monitoring & Evaluation. 
@@ -8,11 +8,11 @@ I am enthusiastic and keen on learning about emerging technologies and their int
 I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
-### Toolbox
+## Toolbox
 
 ---
 
-#### Data Analytics 
+### Data Analytics 
 
 ---
 
@@ -23,23 +23,23 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
 
 
-#### Data Science 
+### Data Science 
 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 
 
-#### Machine Learning 
+### Machine Learning 
 
 ---
 
 
-##### Publications
+#### Publications
 
 ---
 
-##### Contact
+#### Contact
 
 ---
 <br/>
