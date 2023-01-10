@@ -14,7 +14,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg' alt='python_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/373589/excel.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://commons.wikimedia.org/wiki/File:Envivio_logo.jpg' alt='python_logo' width='50' height='50'/>
