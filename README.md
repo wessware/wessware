@@ -29,7 +29,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 
 #### Publications
 ---
-<a href="" target='_blank'>Gated Reccurent Unit Neural (GRU) TensorFlow Nueral Networks Time Series Analysis; A case of traffic flow prediction </a>
+<a href="https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction" target='_blank'>Gated Reccurent Unit Neural (GRU) TensorFlow Nueral Networks Time Series Analysis for traffic flow analysis & prediction </a>
 
 #### Contact
 ---
