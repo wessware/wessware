@@ -24,8 +24,8 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Pandas_logo.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/640px-Pandas_logo.svg.png' alt='pandas_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/180px-Matplotlib_icon.svg.png?20150311090915' alt='matplot_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/353925/javascript.svg' alt='rstudio_logo' width='50' height='50'/>
 
 
