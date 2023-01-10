@@ -48,5 +48,5 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ---
 <br/>
 <a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/> </a> 
-<a href='https://wa.me/254700762433' target='_blank'><img src'https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
+<a href='https://wa.me/254700762433' target='_blank'><img src'https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
 
