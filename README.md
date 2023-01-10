@@ -22,21 +22,22 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ### Data Science 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
-https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg
-https://commons.wikimedia.org/wiki/File:Pandas_logo.svg
-https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg
-https://www.svgrepo.com/show/353925/javascript.svg
-https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg
+<img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Pandas_logo.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/353925/javascript.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg' alt='rstudio_logo' width='50' height='50'/>
 
 
 ### Machine Learning 
 ---
-<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
-https://commons.wikimedia.org/wiki/File:Keras_logo.svg
-https://www.svgrepo.com/show/452091/python.svg
-https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg
-https://www.svgrepo.com/show/305697/anaconda.svg
-https://www.svgrepo.com/show/473683/kaggle.svg
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Keras_logo.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/452091/python.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/305697/anaconda.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/473683/kaggle.svg' alt='rstudio_logo' width='50' height='50'/>
 
 #### Publications
 ---
