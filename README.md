@@ -18,6 +18,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/473761/powerbi.svg' alt='power_bi_logo' width='50' height='50'/>
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vivo_Logo.svg/800px-Vivo_Logo.svg.png?20180410034342' alt='en_vivo_logo' width='50' height='50'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/c/c4/Envivio_logo.jpg?20190302210822' alt='en_vivo_logo' width='50' height='50'/>
 
 ### Data Science 
 ---
