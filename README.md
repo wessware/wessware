@@ -14,15 +14,29 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 ### Data Analytics 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
+https://commons.wikimedia.org/wiki/File:Microsoft_Office_Excel_(2019%E2%80%93present).svg
+https://www.svgrepo.com/show/354428/tableau-icon.svg
+https://www.svgrepo.com/show/473761/powerbi.svg
+https://commons.wikimedia.org/wiki/File:Envivio_logo.jpg
 
 ### Data Science 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg' alt='jupyter_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg' alt='rstudio_logo' width='50' height='50'/>
+https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg
+https://commons.wikimedia.org/wiki/File:Pandas_logo.svg
+https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg
+https://www.svgrepo.com/show/353925/javascript.svg
+https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg
 
 
 ### Machine Learning 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' alt='numpy_logo' width='50' height='50'/>
+https://commons.wikimedia.org/wiki/File:Keras_logo.svg
+https://www.svgrepo.com/show/452091/python.svg
+https://commons.wikimedia.org/wiki/File:Google_Colaboratory_SVG_Logo.svg
+https://www.svgrepo.com/show/305697/anaconda.svg
+https://www.svgrepo.com/show/473683/kaggle.svg
 
 #### Publications
 ---
@@ -31,4 +45,4 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 #### Contact
 ---
 <br/>
-<a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_logo' width='25' height='25'/></a>
+<a href='mailto:stevensheasier@gmail.com' target='_blank'><img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'/></a> <a href='' target='_blank'><img src'https://www.svgrepo.com/show/303147/whatsapp-icon-logo.svg' alt='whatsapp_lg' width='25' heigh='25'/></a>
