@@ -6,8 +6,7 @@ I have a Bachelors degree in Applied Mathematics & Computer science, with a soft
 I am enthusiastic and keen on learning about emerging technologies and their integration in applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
 I am an integrated team player: I can work collaboratively for the achievement of a common goal. 
-I am objective, analytical, detail oriented, disciplined, orderly, and competent. 
----
+I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
 _------
 Toolbox
