@@ -5,12 +5,12 @@ I have a Bachelors degree in Applied Mathematics & Computer science, with a soft
 
 I am enthusiastic and keen on learning about emerging technologies and their integration in applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
-I am an integrated team player: I can work collaboratively for the achievement of a common goal. 
+I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
 _------
 Toolbox
-_------
+
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
