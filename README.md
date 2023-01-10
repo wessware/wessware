@@ -26,7 +26,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://commons.wikimedia.org/wiki/File:Pandas_logo.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg' alt='rstudio_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/353925/javascript.svg' alt='rstudio_logo' width='50' height='50'/>
-<img src='https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg' alt='rstudio_logo' width='50' height='50'/>
+<img src='https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg' alt='rstudio_logo' width='50' height='50'/>
 
 
 ### Machine Learning 
