@@ -9,8 +9,8 @@ I am an integral & charismatic team player: I can work collaboratively for the a
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
 ---
-Toolbox
-
+### Toolbox
+---
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/>
