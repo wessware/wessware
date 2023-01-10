@@ -39,7 +39,7 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png' alt='colab_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/305697/anaconda.svg' alt='anaconda_logo' width='50' height='50'/>
 <img src='https://www.svgrepo.com/show/473683/kaggle.svg' alt='kaggle_logo' width='50' height='50'/>
-<img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='kaggle_logo' width='50' height='50'/>
+<img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='vscode_logo' width='50' height='50'/>
 
 #### Publications
 ---
@@ -48,4 +48,4 @@ I am objective, analytical, detail oriented, disciplined, orderly, and competent
 #### Contact
 ---
 <a href='mailto:stevensheasier@gmail.com' target='_blank'> <img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'></a>
-<a href='https://wa.me/254799762433' target='_blank'> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='kaggle_logo' width='25' height='25'/></a>
+<a href='https://wa.me/254799762433' target='_blank'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png' alt='whatsapp_logo' width='25' height='25'/></a>
