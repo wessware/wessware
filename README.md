@@ -8,7 +8,7 @@ I am enthusiastic and keen on mastering emerging technologies and their respecti
 I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
-## Tools 🧰 & Skills 
+## Tools 🧰 & Skills 💼
 
 ### Data Analytics 
 ---
