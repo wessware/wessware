@@ -5,7 +5,7 @@ I am a Bachelor of Science degree graduate in Applied Mathematics & Computer sci
 
 I am enthusiastic and keen on mastering emerging technologies and their respective integration in Applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
-I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
+I am an integral & charismatic team player: I can work collaboratively for the achievement of the common goal. 
 I am objective, analytical, detail oriented, disciplined, orderly, and competent.
 
 ## Tools 🧰 & Skills 💼
