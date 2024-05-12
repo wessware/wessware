@@ -1,7 +1,7 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a Bachelor of Science degree graduate in Applied Mathematics & Computer science from <a href='https://www.jkuat.ac.ke' target='_blank'>JKUAT</a>; with a soft spot for Data & Analytics. I have more than 3 years of industry experience as a Data Analyst, Data Scientist & Machine Learning Engineering. I also relish scientific research & development; and in this discipline, I have experience with data collection, data preprocessing & data warehousing, project design, project management, and Monitoring & Evaluation. 
+I am a Bachelor of Science degree graduate in Applied Mathematics & Computer science with a soft spot for Data & Analytics. I have more than 3 years of industry experience as a Data Analyst, Data Scientist & Machine Learning Engineering. I also relish scientific research & development; and in this discipline, I have experience with data collection, data preprocessing & data warehousing, project design, project management, and Monitoring & Evaluation. 
 
 I am enthusiastic and keen on mastering emerging technologies and their respective integration in Applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
