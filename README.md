@@ -19,7 +19,17 @@ I am objective, analytical, detail-oriented, disciplined, orderly, and competent
 
 ### Web Technologies 
 ---
-<img src='https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg' alt='stats_logo' width='120' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png' alt='scikit_logo' width='80' height='50'/> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='vscode_logo' width='50' height='50'/>
+
+![nodejs-d83eb6dd](https://github.com/wessware/wessware/assets/46624127/b1dabccc-84c5-4c1b-a710-7c408b98b591)
+
+![html-92b76a73](https://github.com/wessware/wessware/assets/46624127/e7721620-20ab-4f42-89f3-cd137d28f051)
+
+![css-79a7f026](https://github.com/wessware/wessware/assets/46624127/59e6deb2-61dd-4389-94c1-901fa200f576)
+
+![tailwind-6ece120d](https://github.com/wessware/wessware/assets/46624127/1002b58d-2c8e-4638-af15-cde4ca31394e)
+
+![reactjs-966214a8](https://github.com/wessware/wessware/assets/46624127/c9ad163f-2888-43f3-8351-738edf861114)
+
 
 #### Publications
 ---
