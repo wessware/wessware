@@ -22,7 +22,7 @@ I am objective, analytical, detail-oriented, disciplined, orderly, and competent
 ### Machine Learning 
 
 ---
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png' alt='keras_logo' width='50' height='50'/> <img src='https://res.cloudinary.com/dyd911kmh/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png' alt='kaggle_logo' width='90' height='60'/> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='vscode_logo' width='50' height='50'/>
+<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' alt='tensorflow_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/640px-Keras_logo.svg.png' alt='keras_logo' width='50' height='50'/> <img src='https://res.cloudinary.com/dyd911kmh/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png' alt='kaggle_logo' width='90' height='60'/> <img src='https://www.svgrepo.com/show/374173/vscode3.svg' alt='vscode_logo' width='50' height='50'/>
 
 
 
