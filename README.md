@@ -1,7 +1,7 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a Bachelor of Science degree graduate in Applied Mathematics & Computer science with a soft spot for Data & Analytics. I have more than 3 years of industry experience as a Data Analyst, Data Scientist & Machine Learning Engineering. I also relish scientific research & development; and in this discipline, I have experience with data collection, data preprocessing & data warehousing, project design, project management, and Monitoring & Evaluation. 
+I am a Bachelor of Science degree graduate in Applied Mathematics & Computer Science with a soft spot for Data & Analytics. I have more than 3 years of industry experience as a Data Analyst, Data Scientist & Machine Learning Engineering. I also relish scientific research & development; and in this discipline, I have experience with data collection, data preprocessing & data warehousing, project design, project management, and Monitoring & Evaluation. 
 
 I am enthusiastic and keen on mastering emerging technologies and their respective integration in Applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
 
@@ -20,15 +20,15 @@ I am objective, analytical, detail-oriented, disciplined, orderly, and competent
 ### Web Technologies 
 ---
 
-![nodejs-d83eb6dd](https://github.com/wessware/wessware/assets/46624127/b1dabccc-84c5-4c1b-a710-7c408b98b591)
+<img src="https://github.com/wessware/wessware/assets/46624127/b1dabccc-84c5-4c1b-a710-7c408b98b591" alt="node_logo" width="50" height="50" />
 
-![html-92b76a73](https://github.com/wessware/wessware/assets/46624127/e7721620-20ab-4f42-89f3-cd137d28f051)
+<img src="https://github.com/wessware/wessware/assets/46624127/e7721620-20ab-4f42-89f3-cd137d28f051"  alt="node_logo" width="50" height="50" />
 
-![css-79a7f026](https://github.com/wessware/wessware/assets/46624127/59e6deb2-61dd-4389-94c1-901fa200f576)
+<img src="https://github.com/wessware/wessware/assets/46624127/59e6deb2-61dd-4389-94c1-901fa200f576"  alt="node_logo" width="50" height="50" />
 
-![tailwind-6ece120d](https://github.com/wessware/wessware/assets/46624127/1002b58d-2c8e-4638-af15-cde4ca31394e)
+<img src="https://github.com/wessware/wessware/assets/46624127/1002b58d-2c8e-4638-af15-cde4ca31394e"  alt="node_logo" width="50" height="50" />
 
-![reactjs-966214a8](https://github.com/wessware/wessware/assets/46624127/c9ad163f-2888-43f3-8351-738edf861114)
+<img src="https://github.com/wessware/wessware/assets/46624127/c9ad163f-2888-43f3-8351-738edf861114"  alt="node_logo" width="50" height="50" />
 
 
 #### Publications
