@@ -1,12 +1,8 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a Bachelor of Science degree graduate in Applied Mathematics & Computer Science with a soft spot for Data & Analytics. I have more than 3 years of industry experience as a Data Analyst, Data Scientist & Machine Learning Engineering. I also relish scientific research & development; and in this discipline, I have experience with data collection, data preprocessing & data warehousing, project design, project management, and Monitoring & Evaluation. 
-
-I am enthusiastic and keen on mastering emerging technologies and their respective integration in Applied Artificial Intelligence in solving real-world problems, betterment of human lives, and corporate profitability. 
-
-I am an integral & charismatic team player: I can work collaboratively for the achievement of a common goal. 
-I am objective, analytical, detail-oriented, disciplined, orderly, and competent.
+I am a passionate data professional with 3+ years of expertise in data analytics, machine learning, and advanced analysis. Proficient in Python, R, SQL, and JavaScript, I specialize in predictive modeling, data visualization, and NLP. 
+My projects showcase skills in TensorFlow, Power BI, and impactful problem-solving across diverse domains.
 
 ## Tools 🧰 & Skills 💼
 
