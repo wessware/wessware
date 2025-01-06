@@ -1,9 +1,13 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![LinkedIn_bg](https://github.com/user-attachments/assets/f3da1f25-e2a5-43e6-a8c1-b35b5e5d7054)
+
+![github_bg](https://github.com/user-attachments/assets/a6621405-4a65-484e-8526-50985585bc96)
 
 
-I am a passionate data professional with 3+ years of expertise in data analytics, machine learning, and advanced analysis. Proficient in Python, R, SQL, and JavaScript, I specialize in predictive modeling, data visualization, and NLP. 
-My projects showcase skills in TensorFlow, Power BI, and impactful problem-solving across diverse domains.
+I am a passionate data professional with more than three years of expertise in Data & Analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
+
+My experience spans the fields of Data Analysis, Data Visualization, Machine Learning, Business Intelligence, Monitoring & Evaluation. 
+
+I am open to corporate and freelance work opportunities.
 
 ### Data & Analytics 
 ---
