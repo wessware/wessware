@@ -1,4 +1,5 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![LinkedIn_bg](https://github.com/user-attachments/assets/f3da1f25-e2a5-43e6-a8c1-b35b5e5d7054)
 
 
 I am a passionate data professional with 3+ years of expertise in data analytics, machine learning, and advanced analysis. Proficient in Python, R, SQL, and JavaScript, I specialize in predictive modeling, data visualization, and NLP. 
