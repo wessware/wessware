@@ -1,4 +1,3 @@
-## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 ![github_bg_1](https://github.com/user-attachments/assets/ef523d81-c916-423f-9ace-e4747d796e7c)
