@@ -5,8 +5,6 @@
 I am a passionate data professional with 3+ years of expertise in data analytics, machine learning, and advanced analysis. Proficient in Python, R, SQL, and JavaScript, I specialize in predictive modeling, data visualization, and NLP. 
 My projects showcase skills in TensorFlow, Power BI, and impactful problem-solving across diverse domains.
 
-## Tools 🧰 & Skills 💼
-
 ### Data & Analytics 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src='https://github.com/wessware/wessware/assets/46624127/3eee364e-e00b-41e8-9588-1c4da3f33839' alt='sql_logo' width='70' height='60'/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
