@@ -1,6 +1,7 @@
 ## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![github_bg](https://github.com/user-attachments/assets/a6621405-4a65-484e-8526-50985585bc96)
+
+![github_bg_1](https://github.com/user-attachments/assets/ef523d81-c916-423f-9ace-e4747d796e7c)
 
 
 I am a passionate data professional with more than three years of expertise in Data & Analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
