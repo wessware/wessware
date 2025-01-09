@@ -5,7 +5,7 @@
 
 I am a passionate data professional with more than three years of expertise in Data & Analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
 
-My experience spans the fields of Data Analysis, Data Visualization, Machine Learning, Business Intelligence, Monitoring & Evaluation. 
+My experience spans the fields of Data Analysis, Visualization, Machine Learning, Business Intelligence, and Monitoring and evaluation. 
 
 I am open to corporate and freelance work opportunities.
 
@@ -18,23 +18,11 @@ I am open to corporate and freelance work opportunities.
 
 ### Web Technologies 
 ---
-
-<img src="https://github.com/wessware/wessware/assets/46624127/b1dabccc-84c5-4c1b-a710-7c408b98b591" alt="node_logo" width="50" height="50" />
-
-<img src="https://github.com/wessware/wessware/assets/46624127/e7721620-20ab-4f42-89f3-cd137d28f051"  alt="html5_logo" width="50" height="50" />
-
-<img src="https://github.com/wessware/wessware/assets/46624127/59e6deb2-61dd-4389-94c1-901fa200f576"  alt="css3_logo" width="50" height="50" />
-
-<img src="https://github.com/wessware/wessware/assets/46624127/1002b58d-2c8e-4638-af15-cde4ca31394e"  alt="tailwind_logo" width="50" height="50" />
-
-<img src="https://github.com/wessware/wessware/assets/46624127/c9ad163f-2888-43f3-8351-738edf861114"  alt="react_logo" width="50" height="50" />
-
-<img src="https://github.com/wessware/wessware/assets/46624127/1bcd9a2e-46bb-4905-a53c-7beaacc7ef2f"  alt="mongo_logo" width="50" height="50" />
-
+<img src="https://github.com/wessware/wessware/assets/46624127/b1dabccc-84c5-4c1b-a710-7c408b98b591" alt="node_logo" width="50" height="50" /> <img src="https://github.com/wessware/wessware/assets/46624127/e7721620-20ab-4f42-89f3-cd137d28f051"  alt="html5_logo" width="50" height="50" /> <img src="https://github.com/wessware/wessware/assets/46624127/59e6deb2-61dd-4389-94c1-901fa200f576"  alt="css3_logo" width="50" height="50" /> <img src="https://github.com/wessware/wessware/assets/46624127/1002b58d-2c8e-4638-af15-cde4ca31394e"  alt="tailwind_logo" width="50" height="50" /> <img src="https://github.com/wessware/wessware/assets/46624127/c9ad163f-2888-43f3-8351-738edf861114"  alt="react_logo" width="50" height="50" /> <img src="https://github.com/wessware/wessware/assets/46624127/1bcd9a2e-46bb-4905-a53c-7beaacc7ef2f"  alt="mongo_logo" width="50" height="50" />
 
 #### Publications
 ---
-<a href="https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction" target='_blank'>Gated Reccurent Unit (GRU) TensorFlow Neural Networks: Time Series Analysis for traffic flow analysis & prediction </a>
+<a href="https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction" target='_blank'> Gated Recurrent Unit (GRU) TensorFlow Neural Networks: Time Series Analysis for traffic flow analysis & prediction </a>
 
 #### Contact
 ---
