@@ -13,6 +13,9 @@ I am open to corporate and freelance work opportunities.
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src='https://github.com/wessware/wessware/assets/46624127/3eee364e-e00b-41e8-9588-1c4da3f33839' alt='sql_logo' width='70' height='60'/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
 
+### Projects
+---
+
 #### Publications
 ---
 <a href="https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction" target='_blank'> Gated Recurrent Unit (GRU) TensorFlow Neural Networks: Time Series Analysis for traffic flow analysis & prediction </a>
