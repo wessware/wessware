@@ -16,11 +16,11 @@ I am open to corporate and freelance work opportunities.
 ### Projects
 ---
 
-#### Publications
+### Publications
 ---
 <a href="https://www.researchgate.net/publication/366154898_Deployment_of_Time_Series_Analysis_and_the_TensorFlow_GRU_model_in_traffic_flow_prediction" target='_blank'> Gated Recurrent Unit (GRU) TensorFlow Neural Networks: Time Series Analysis for traffic flow analysis & prediction </a>
 
-#### Contact
+### Contact
 ---
 <a href='mailto:stevensheasier@gmail.com' target='_blank'> <img src='https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg' alt='gmail_lg' width='25' height='25'></a>
 <a href='https://wa.me/254799762433' target='_blank'> &ensp; <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png' alt='whatsapp_logo' width='25' height='25'/></a> <a href='https://www.linkedin.com/in/stephen-shisia-105924450/' target='_blank'> &ensp; <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png?20110609134306' alt='linkedin_logo' width='25' height='25'/></a>
