@@ -9,12 +9,20 @@ My experience spans the fields of Data Analysis, Visualization, Machine Learning
 
 I am open to corporate and freelance work opportunities.
 
-### Data & Analytics 
+### Essentials: 
 ---
 <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src='https://github.com/wessware/wessware/assets/46624127/3eee364e-e00b-41e8-9588-1c4da3f33839' alt='sql_logo' width='70' height='60'/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
 
 ### Projects
 ---
+#### 1. Credit Scoring Models for ShopOkoa
+##### Overview:
+The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
+##### Insights: 
+
+##### Tools:
+
+##### Code: 
 
 ### Publications
 ---
