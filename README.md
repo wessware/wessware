@@ -24,7 +24,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Code: 
 
-#### 1. Credit Scoring Models for ShopOkoa
+#### 2. ARIMA Time Series Models for Farm Machinery Income Generation over a period  of 12 months.
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
 ##### Insights: 
@@ -33,7 +33,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Code: 
 
-#### 1. Credit Scoring Models for ShopOkoa
+#### 3. An Analysis of Customers' Response to a Sales Survey
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
 ##### Insights: 
@@ -42,7 +42,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Code: 
 
-#### 1. Credit Scoring Models for ShopOkoa
+#### 4. Traffic flow prediction using Tensorflow
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
 ##### Insights: 
@@ -51,7 +51,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Code: 
 
-#### 1. Credit Scoring Models for ShopOkoa
+#### 5. A deep dive into a Visualization of Loan Data using R.  
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
 ##### Insights: 
