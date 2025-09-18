@@ -35,7 +35,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: 
+##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Time Series Models</a>
 
 #### 3. An Analysis of Customers' Response to a Sales Survey
 ##### Overview:
@@ -44,7 +44,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: 
+##### Code: <a href="https://github.com/wessware/customer_response_to_survey">ML Models</a>
 
 #### 4. Traffic flow prediction using Tensorflow
 ##### Overview:
@@ -53,7 +53,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: 
+##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Transformers</a>
 
 #### 5. A deep dive into a Visualization of Loan Data using R.  
 ##### Overview:
@@ -62,7 +62,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: 
+##### Code: <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
 
 ### Publications:
 ---
