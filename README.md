@@ -18,15 +18,12 @@ I am open to corporate and freelance work opportunities.
 #### 1. Credit Scoring Models for ShopOkoa
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
-##### Insights: 
+##### **Insights:** 
 
-##### Tools:
-- XGBoost
-- CATBoost
-- Random Forests
+##### **Tools:** XGBoost, CATBoost, Random Forests
 
 
-##### Code: <a href="https://github.com/wessware/Boosting_Algorithms">Boosting Algorithms</a>, <a href="https://github.com/wessware/clustering_algorithms">Clustering Algorithms</a>
+##### Code: <a href="https://github.com/wessware/Boosting_Algorithms">Linear & Tree models</a>, <a href="https://github.com/wessware/Boosting_Algorithms">Boosting Algorithms</a>, <a href="https://github.com/wessware/clustering_algorithms">Clustering Algorithms</a>
 
 #### 2. ARIMA Time Series Models for Farm Machinery Income Generation over a period  of 12 months.
 ##### Overview:
@@ -53,7 +50,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Transformers</a>
+##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Neural Networks</a>
 
 #### 5. A deep dive into a Visualization of Loan Data using R.  
 ##### Overview:
@@ -62,7 +59,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Tools:
 
-##### Code: <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
+##### Code: <a href="https://github.com/wessware/data_visualization_R_101">R Data Visualization</a>, <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
 
 ### Publications:
 ---
