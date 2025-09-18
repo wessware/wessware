@@ -5,7 +5,7 @@
 
 I am a passionate data professional with over three years of expertise in data and analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
 
-My experience spans the fields of Data Analysis, Visualization, Machine Learning, Business Intelligence, and Monitoring and evaluation. 
+My experience spans the fields of Data Analysis, Visualization, Machine Learning, Business Intelligence, and Monitoring and Evaluation. 
 
 I am open to corporate and freelance work opportunities.
 
@@ -15,6 +15,42 @@ I am open to corporate and freelance work opportunities.
 
 ### Projects
 ---
+#### 1. Credit Scoring Models for ShopOkoa
+##### Overview:
+The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
+##### Insights: 
+
+##### Tools:
+
+##### Code: 
+
+#### 1. Credit Scoring Models for ShopOkoa
+##### Overview:
+The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
+##### Insights: 
+
+##### Tools:
+
+##### Code: 
+
+#### 1. Credit Scoring Models for ShopOkoa
+##### Overview:
+The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
+##### Insights: 
+
+##### Tools:
+
+##### Code: 
+
+#### 1. Credit Scoring Models for ShopOkoa
+##### Overview:
+The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
+##### Insights: 
+
+##### Tools:
+
+##### Code: 
+
 #### 1. Credit Scoring Models for ShopOkoa
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
