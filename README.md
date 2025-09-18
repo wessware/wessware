@@ -43,7 +43,7 @@ The project involved the use of synthetic data to create various predictive mode
 
 ##### Code: <a href="https://github.com/wessware/customer_response_to_survey">ML Models</a>
 
-#### 4. Traffic flow prediction using Tensorflow
+#### 4. Traffic flow prediction
 ##### Overview:
 The project involved the use of synthetic data to create various predictive models that informed possible customer trends and credit repayment behaviors. 
 ##### Insights: 
