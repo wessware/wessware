@@ -30,7 +30,7 @@ The project utilized synthetic data to develop various predictive models that in
 The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
 ##### Insights: 
 
-##### Tools:
+##### Tools: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
 ##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Time Series Models</a>
 
@@ -58,7 +58,7 @@ system that helps road users plan better and save time and resources.
 This project aimed at exploring the robustness of R in data analysis and data visualization. The loan dataset used in previous projects was utilized.  
 ##### Insights: 
 
-##### Tools: Mean Matching, Kaggle.
+##### Tools: R, Jupyter Notebooks, Mean Matching, Kaggle.
 
 ##### Code: <a href="https://github.com/wessware/data_visualization_R_101">R Data Visualization</a>, <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
 
