@@ -18,10 +18,9 @@ I am open to corporate and freelance work opportunities.
 #### 1. Credit Scoring Models for ShopOkoa
 ##### Overview:
 The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
-##### **Insights:** 
+##### Insights:
 
-##### **Tools:** XGBoost, CATBoost, Random Forests
-
+##### Tools & Methods: XGBoost, CATBoost, Random Forests
 
 ##### Code: <a href="https://github.com/wessware/Boosting_Algorithms">Linear & Tree models</a>, <a href="https://github.com/wessware/Boosting_Algorithms">Boosting Algorithms</a>, <a href="https://github.com/wessware/clustering_algorithms">Clustering Algorithms</a>
 
@@ -30,7 +29,7 @@ The project utilized synthetic data to develop various predictive models that in
 The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
 ##### Insights: 
 
-##### Tools: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
+##### Tools & Methods: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
 ##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Deep Learning & Time Series Models</a>
 
@@ -39,7 +38,7 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 In this project, I analysed how customers respond to surveys. The clients wanted to know which customers were more likely to take the survey - and how other customers could be incentivized to take the survey. 
 ##### Insights: 
 
-##### Tools: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
+##### Tools & Methods: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
 
 ##### Code: <a href="https://github.com/wessware/customer_response_to_survey">Linear & Tree ML Models</a>
 
@@ -49,7 +48,7 @@ Traffic snarls are a major challenge for modern cities. This project utilized de
 system that helps road users plan better and save time and resources. 
 ##### Insights: 
 
-##### Tools: Tensorflow, GNU, Time Series
+##### Tools & Methods: Tensorflow, GNU, Time Series.
 
 ##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Neural Networks</a>
 
@@ -58,7 +57,7 @@ system that helps road users plan better and save time and resources.
 This project aimed at exploring the robustness of R in data analysis and data visualization. The loan dataset used in previous projects was utilized.  
 ##### Insights: 
 
-##### Tools: R, Jupyter Notebooks, Mean Matching, Kaggle.
+##### Tools & Methods: R, Jupyter Notebooks, Mean Matching, Kaggle.
 
 ##### Code: <a href="https://github.com/wessware/data_visualization_R_101">R Data Visualization</a>, <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
 
