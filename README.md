@@ -32,7 +32,7 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 
 ##### Tools: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
-##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Time Series Models</a>
+##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Deep Learning & Time Series Models</a>
 
 #### 3. An Analysis of Customers' Response to a Sales Survey
 ##### Overview:
