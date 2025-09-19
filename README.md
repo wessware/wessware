@@ -15,47 +15,47 @@ I am open to corporate and freelance work opportunities.
 
 ### Projects:
 ---
-#### 1. Credit Scoring Models for ShopOkoa
-##### Overview:
+#### 1. <ins>Credit Scoring Models for ShopOkoa</ins>
+##### <ins>Overview:</ins>
 The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
-##### Insights:
+##### <ins>Insights:</ins>
 
 ##### Tools & Methods: XGBoost, CATBoost, Random Forests
 
 ##### Code: <a href="https://github.com/wessware/Boosting_Algorithms">Linear & Tree models</a>, <a href="https://github.com/wessware/Boosting_Algorithms">Boosting Algorithms</a>, <a href="https://github.com/wessware/clustering_algorithms">Clustering Algorithms</a>
 
-#### 2. ARIMA Time Series Models for Farm Machinery Income Generation over a period  of 12 months.
-##### Overview:
+#### 2. <ins>ARIMA Time Series Models for Farm Machinery Income Generation over a period  of 12 months.</ins>
+##### <ins>Overview:</ins>
 The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
-##### Insights: 
+##### <ins>Insights:</ins>
 
 ##### Tools & Methods: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
 ##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Deep Learning & Time Series Models</a>
 
-#### 3. An Analysis of Customers' Response to a Sales Survey
-##### Overview:
+#### 3. <ins>An Analysis of Customers' Response to a Sales Survey</ins>
+##### <ins>Overview:</ins>
 In this project, I analysed how customers respond to surveys. The clients wanted to know which customers were more likely to take the survey - and how other customers could be incentivized to take the survey. 
-##### Insights: 
+##### <ins>Insights:</ins>
 
 ##### Tools & Methods: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
 
 ##### Code: <a href="https://github.com/wessware/customer_response_to_survey">Linear & Tree ML Models</a>
 
-#### 4. Traffic flow prediction
-##### Overview:
+#### 4. <ins>Traffic flow prediction</ins>
+##### <ins>Overview:</ins>
 Traffic snarls are a major challenge for modern cities. This project utilized deep learning neural networks to predict traffic flow at different road junctions over a period of years. The intention was to create a predictive AI 
 system that helps road users plan better and save time and resources. 
-##### Insights: 
+##### <ins>Insights:</ins>
 
 ##### Tools & Methods: Tensorflow, GNU, Time Series.
 
 ##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Neural Networks</a>
 
-#### 5. A deep dive into a Visualization of Loan Data using R.  
-##### Overview:
+#### 5. <ins>A deep dive into a Visualization of Loan Data using R.</ins>  
+##### <ins>Overview:</ins>
 This project aimed at exploring the robustness of R in data analysis and data visualization. The loan dataset used in previous projects was utilized.  
-##### Insights: 
+##### <ins>Insights:</ins>
 
 ##### Tools & Methods: R, Jupyter Notebooks, Mean Matching, Kaggle.
 
