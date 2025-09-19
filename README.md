@@ -39,9 +39,9 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 In this project, I analysed how customers respond to surveys. The clients wanted to know which customers were more likely to take the survey - and how other customers could be incentivized to take the survey. 
 ##### Insights: 
 
-##### Tools: Python, Scikit-learn, plotly
+##### Tools: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
 
-##### Code: <a href="https://github.com/wessware/customer_response_to_survey">ML Models</a>
+##### Code: <a href="https://github.com/wessware/customer_response_to_survey">Linear & Tree ML Models</a>
 
 #### 4. Traffic flow prediction
 ##### Overview:
