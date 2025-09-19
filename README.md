@@ -27,7 +27,7 @@ The project utilized synthetic data to develop various predictive models that in
 
 #### 2. ARIMA Time Series Models for Farm Machinery Income Generation over a period  of 12 months.
 ##### Overview:
-The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
+The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
 ##### Insights: 
 
 ##### Tools:
@@ -36,28 +36,29 @@ The project utilized synthetic data to develop various predictive models that in
 
 #### 3. An Analysis of Customers' Response to a Sales Survey
 ##### Overview:
-The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
+In this project, I analysed how customers respond to surveys. The clients wanted to know which customers were more likely to take the survey - and how other customers could be incentivized to take the survey. 
 ##### Insights: 
 
-##### Tools:
+##### Tools: Python, Scikit-learn, plotly
 
 ##### Code: <a href="https://github.com/wessware/customer_response_to_survey">ML Models</a>
 
 #### 4. Traffic flow prediction
 ##### Overview:
-The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
+Traffic snarls are a major challenge for modern cities. This project utilized deep learning neural networks to predict traffic flow at different road junctions over a period of years. The intention was to create a predictive AI 
+system that helps road users plan better and save time and resources. 
 ##### Insights: 
 
-##### Tools:
+##### Tools: Tensorflow, GNU, Time Series
 
 ##### Code: <a href="https://github.com/wessware/traffic_prediction_tensorflow">GRU Neural Networks</a>
 
 #### 5. A deep dive into a Visualization of Loan Data using R.  
 ##### Overview:
-The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
+This project aimed at exploring the robustness of R in data analysis and data visualization. The loan dataset used in previous projects was utilized.  
 ##### Insights: 
 
-##### Tools:
+##### Tools: Mean Matching, Kaggle.
 
 ##### Code: <a href="https://github.com/wessware/data_visualization_R_101">R Data Visualization</a>, <a href="https://github.com/wessware/data_munging_R">R Data Munging</a>
 
