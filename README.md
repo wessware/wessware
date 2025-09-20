@@ -5,7 +5,7 @@
 
 I am a passionate data professional with over three years of expertise in data and analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
 
-My experience spans the fields of Data Analysis, Visualization, Machine Learning, Business Intelligence, and Monitoring and Evaluation. 
+My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs. 
 
 I am open to corporate and freelance work opportunities.
 
