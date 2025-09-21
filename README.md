@@ -5,8 +5,9 @@
 
 I am a passionate data professional with over three years of expertise in data and analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
 
-My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs. In this project, I applied advanced Excel mechanisms
-that made data extraction and fetching more efficient.
+My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs. In this project, I applied advanced Excel querying mechanisms that made data extraction and retrieval more efficient.
+At ShopOkoa, I pioneered the first AI-based models that breathed life into classical mathematical models on credit scores. Using synthetic data, I, together with a team of developers, created AI models with an accuracy of 98%. These models helped us better understand
+which variables to monitor and evaluate on real data. 
 
 I am open to corporate and freelance work opportunities.
 
