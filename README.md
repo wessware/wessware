@@ -32,6 +32,8 @@ The project utilized synthetic data to develop various predictive models that in
 ##### <ins>Overview:</ins>
 The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
 ##### <ins>Insights:</ins>
++ We noted that high income seasons repeatedly preceded the two rain seasons for this region - an indication that in times before the rains, the tractor owner should expect a higher demand for
+  ploughing services in comparison to transport and towing services.
   
 ##### Tools & Methods: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
