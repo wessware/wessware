@@ -5,17 +5,17 @@
 I will not just write code and build models: I can think adaptively, curate, and implement solutions to your problems - both those that you know, and ones that you do not know you have! 
 
 + My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs.
-  In this project, I utilized advanced Excel querying techniques to enhance data ETL, which cut down the verification period for more than 60,000 records by more than 70% -saving on time and costs. <br/>
+  In this project, I utilized advanced Excel querying techniques to enhance data ETL, which reduced the verification period for more than 60,000 records by over 70% -saving time and costs. <br/>
 
-+ At ShopOkoa, I demonstrated how Generative Adversarial Networks (GANs), can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
++ At ShopOkoa, I demonstrated how Generative Adversarial Networks (GANs) can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
 
-+ As a freelance data analysts, I have created numerous, well-documented end-to-end projects for different clients as highlighted hereon.
+As a freelance data analyst, I have created numerous well-documented end-to-end projects for various clients, as highlighted below.
 
 I am open to corporate and freelance work opportunities.
 
 ### Essentials: 
 ---
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src='https://github.com/wessware/wessware/assets/46624127/3eee364e-e00b-41e8-9588-1c4da3f33839' alt='sql_logo' width='70' height='60'/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src="https://github.com/user-attachments/assets/50ccbef4-ee10-4fd5-a02e-b40a87c18912" width="80" height="80" alt="Azure SQL Database"/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
 
 ### Projects:
 ---
