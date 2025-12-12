@@ -21,6 +21,8 @@ I am open to corporate and freelance work opportunities.
 ##### <ins>Overview:</ins>
 The project utilized synthetic data to develop various predictive models that informed potential customer trends and credit repayment behaviors. 
 ##### <ins>Insights:</ins>
++ Previous history of loan repayment was a more reliable metric of future repayment than other demographic variables.
++ Segregating customers into demographic clusters for model-training produced a better credit score than generalized linear models.
 
 ##### Tools & Methods: XGBoost, CATBoost, Random Forests
 
@@ -30,7 +32,7 @@ The project utilized synthetic data to develop various predictive models that in
 ##### <ins>Overview:</ins>
 The projects aimed to track and predict ROI for a farm tractor used for various activities, including transport services and ploughing. The farmer intended to understand which of the two services was most profitable and at what times of the year each service was most sought after. 
 ##### <ins>Insights:</ins>
-
+  
 ##### Tools & Methods: ARIMA, Auto-ARIMA, LSTM, BiLSTM, XGB, LGBM, GRU, CatBoost
 
 ##### Code: <a href="https://github.com/wessware/time_series_forecasting_linear_ml_models">Linear ML Models</a>, <a href="https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING">Deep Learning & Time Series Models</a>
