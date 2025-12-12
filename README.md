@@ -56,8 +56,8 @@ This capstone project aimed at assessing best performing clustering models on a 
 Traffic snarls are a major challenge for modern cities. This project utilized deep learning neural networks to predict traffic flow at different road junctions over a period of years. The intention was to create a predictive AI 
 system that helps road users plan better and save time and resources. 
 ##### <ins>Insights:</ins>
-+ Combined with Time Series Analysis, Gated Reccurent Units demonstrated a high efficiency and accuracy in predicting traffic flow prediction for different road sections.
-+ The efficiency and reliability of GNU Neural Networks for the prediction of traffic flow relies heavily on the size of the dataset (the period of observation).
++ Combined with Time Series Analysis, Gated Recurrent Units demonstrated a high efficiency and accuracy in predicting traffic flow for different road sections.
++ The efficiency and reliability of GNU Neural Networks for predicting traffic flow rely heavily on the size of the dataset (the period of observation).
 
 ##### Tools & Methods: Tensorflow, GNU, Time Series.
 
@@ -65,8 +65,10 @@ system that helps road users plan better and save time and resources.
 
 #### 5. <ins>A deep dive into a Visualization of Loan Data using R.</ins>  
 ##### <ins>Overview:</ins>
-This project aimed at exploring the robustness of R in data analysis and data visualization. The loan dataset used in previous projects was utilized.  
+This project explored the robustness of R in data analysis and data visualization on a generic dataset.  
 ##### <ins>Insights:</ins>
++ I discovered that other Python, R is an effective and robust language for Exploratory Data Analysis(EDA) & data visualization.
++ R carries comes with additional libraries, packages, and methods that allow for tweaks, better visuals, and better insights compared with Python.
 
 ##### Tools & Methods: R, Jupyter Notebooks, Mean Matching, Kaggle.
 
