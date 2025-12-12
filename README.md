@@ -41,8 +41,11 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 
 #### 3. <ins>An Analysis of Customers' Response to a Sales Survey</ins>
 ##### <ins>Overview:</ins>
-In this project, I analysed how customers respond to surveys. The clients wanted to know which customers were more likely to take the survey - and how other customers could be incentivized to take the survey. 
+This capstone project aimed at assessing best performing clustering models on a generic dataset. We tested:Random Forests, logistic regression, K-Nearest Neighbours, and Decision Trees.
 ##### <ins>Insights:</ins>
++ Random Forest classifiers outperformed all the other base nodels both in accuracy and runtime.
++ On fine tuning, Random Forest classifiers were less likely to overfit compared to the other control models.
++ There was a general improvement in accuracy accross all classifiers with the use of cross-validation data folds for model training & testing. 
 
 ##### Tools & Methods: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
 
