@@ -1,13 +1,15 @@
-## Wechale Shisia Stephen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Wechale Shisia <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![github_bg_1](https://github.com/user-attachments/assets/ef523d81-c916-423f-9ace-e4747d796e7c)
 
+I will not just write code and build models: I can think adaptively, curate, and implement solutions to your problems - both those that you know, and ones that you do not know you have! 
 
-I am a passionate data professional with over three years of expertise in data and analytics. I have expert-level proficiency in Python, R, SQL, Excel, and Power BI. 
++ My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs.
+  In this project, I utilized advanced Excel querying techniques to enhance data ETL, which cut down the verification period for more than 60,000 records by more than 70% -saving on time and costs. <br/>
 
-My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs. In this project, I utilized advanced Excel querying mechanisms to enhance data extraction and retrieval efficiency. <br/>
-At ShopOkoa, I pioneered the first AI-based models that breathed life into classical mathematical models on credit scores. Using synthetic data, I, together with a team of developers, created AI models with an accuracy of 98%. These models helped us better understand
-which variables to monitor and evaluate on real data. 
++ At ShopOkoa, I demonstrated how Generative Adversaial Networks (GANs), can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
+
++ As a freelance data analysts, I have created numerous, well-documented end-to-end projects for different clients as highlighted hereon.
 
 I am open to corporate and freelance work opportunities.
 
