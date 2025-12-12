@@ -56,6 +56,8 @@ This capstone project aimed at assessing best performing clustering models on a 
 Traffic snarls are a major challenge for modern cities. This project utilized deep learning neural networks to predict traffic flow at different road junctions over a period of years. The intention was to create a predictive AI 
 system that helps road users plan better and save time and resources. 
 ##### <ins>Insights:</ins>
++ Combined with Time Series Analysis, Gated Reccurent Units demonstrated a high efficiency and accuracy in predicting traffic flow prediction for different road sections.
++ The efficiency and reliability of GNU Neural Networks for the prediction of traffic flow relies heavily on the size of the dataset (the period of observation).
 
 ##### Tools & Methods: Tensorflow, GNU, Time Series.
 
