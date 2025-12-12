@@ -7,7 +7,7 @@ I will not just write code and build models: I can think adaptively, curate, and
 + My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs.
   In this project, I utilized advanced Excel querying techniques to enhance data ETL, which cut down the verification period for more than 60,000 records by more than 70% -saving on time and costs. <br/>
 
-+ At ShopOkoa, I demonstrated how Generative Adversaial Networks (GANs), can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
++ At ShopOkoa, I demonstrated how Generative Adversarial Networks (GANs), can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
 
 + As a freelance data analysts, I have created numerous, well-documented end-to-end projects for different clients as highlighted hereon.
 
@@ -43,7 +43,7 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 
 #### 3. <ins>An Analysis of Customers' Response to a Sales Survey</ins>
 ##### <ins>Overview:</ins>
-This capstone project aimed at assessing best performing clustering models on a generic dataset. We tested:Random Forests, logistic regression, K-Nearest Neighbours, and Decision Trees.
+This capstone project aimed at assessing best performing clustering models on a generic dataset. I tested: Random Forests, logistic regression, K-Nearest Neighbours, and Decision Trees.
 ##### <ins>Insights:</ins>
 + Random Forest classifiers outperformed all the other base nodels both in accuracy and runtime.
 + On fine tuning, Random Forest classifiers were less likely to overfit compared to the other control models.
