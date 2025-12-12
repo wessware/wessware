@@ -2,7 +2,7 @@
 
 ![github_bg_1](https://github.com/user-attachments/assets/ef523d81-c916-423f-9ace-e4747d796e7c)
 
-I will not just write code and build models: I can think adaptively, curate, and implement solutions to your problems - both those that you know, and ones that you do not know you have! 
+_I will not just write code and build models: I can think adaptively, curate, and implement solutions to your problems - both those that you know, and ones that you do not know you have!_
 
 + My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs.
   In this project, I utilized advanced Excel querying techniques to enhance data ETL, which reduced the verification period for more than 60,000 records by over 70% -saving time and costs. <br/>
