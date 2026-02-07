@@ -4,10 +4,10 @@
 
 _I will not just write code and build models: I can think adaptively, curate, and implement solutions to your problems - both those that you know, and ones that you do not know you have!_
 
-+ My data processing pipelines improved the efficiency of document verification for the Jiinue Youth Program - a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) for financing MSMEs.
++ I have done <a href="https://github.com/wessware/Jiinue-Youth-Program-Dashboard"> impressive dashboards & data processing pipelines,</a> which improved the efficiency of document verification for the Jiinue Youth Program, a Mastercard program run by the Kenya Private Sector Alliance (KEPSA) to finance MSMEs.
   In this project, I utilized advanced Excel querying techniques to enhance data ETL, which reduced the verification period for more than 60,000 records by over 70% -saving time and costs. <br/>
 
-+ At ShopOkoa, I demonstrated how Generative Adversarial Networks (GANs) can be deployed in the training of reliable AI models that can be used for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
++ At ShopOkoa, I demonstrated how Generative Adversarial Networks (GANs) can be deployed to train reliable AI models for credit scoring and customer classification. This discovery has helped this Fintech startup roll out an AI-powered digital lending platform that has now onboarded more than 500 merchants in Kenya, enabling customers to shop on credit and pay later.
 
 As a freelance data analyst, I have created numerous well-documented end-to-end projects for various clients, as highlighted below.
 
@@ -45,9 +45,9 @@ The projects aimed to track and predict ROI for a farm tractor used for various 
 ##### <ins>Overview:</ins>
 This capstone project aimed at assessing best performing clustering models on a generic dataset. I tested: Random Forests, logistic regression, K-Nearest Neighbours, and Decision Trees.
 ##### <ins>Insights:</ins>
-+ Random Forest classifiers outperformed all the other base nodels both in accuracy and runtime.
++ Random Forest classifiers outperformed all the other base models both in accuracy and runtime.
 + On fine tuning, Random Forest classifiers were less likely to overfit compared to the other control models.
-+ There was a general improvement in accuracy accross all classifiers with the use of cross-validation data folds for model training & testing. 
++ There was a general improvement in accuracy across all classifiers with the use of cross-validation data folds for model training & testing. 
 
 ##### Tools & Methods: Python, Scikit-learn, plotly, KNN, Random Forest, Logistic Regression.
 
