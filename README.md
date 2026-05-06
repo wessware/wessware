@@ -13,10 +13,6 @@ As a freelance data analyst, I have created numerous well-documented end-to-end 
 
 I am open to corporate and freelance work opportunities.
 
-### Essentials: 
----
-<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python_logo' width='50' height='50'/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' alt='R_logo' width='70' height='50'/> <img src="https://github.com/user-attachments/assets/50ccbef4-ee10-4fd5-a02e-b40a87c18912" width="80" height="80" alt="Azure SQL Database"/> <img src='https://www.svgrepo.com/show/373589/excel.svg' alt='excel_logo' width='50' height='50'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png' alt='power_bi_logo' width='50' height='50'/> <img src='https://www.svgrepo.com/show/354428/tableau-icon.svg' alt='tableau_logo' width='50' height='50'/> 
-
 ### Projects:
 ---
 #### 1. <ins>Credit Scoring Models for ShopOkoa</ins>
